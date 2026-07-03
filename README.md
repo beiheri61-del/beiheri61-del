@@ -1,16 +1,13 @@
-## Hi there 👋
+# Welcome! 👋 I'm beiheri61-del
 
-<!--
-**beiheri61-del/beiheri61-del** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Seorang penghapus (del) yang suka membersihkan kode dan membuat semuanya rapi. Clean code, clean mind!
 
-Here are some ideas to get you started:
+## 🧹 What I Do
+- Code cleanup
+- Refactoring
+- Organization
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💡 Belief
+"Clean code is not just about making the computer happy, it's about making humans happy too"
+
+Keep it clean! ✨
